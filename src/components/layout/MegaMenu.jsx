@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 import { ArrowRightIcon } from '@heroicons/react/24/outline'
 
 export default function MegaMenu({ item, onClose }) {
-  if (!item?.children) return null
+  if (!item?.children || item?.children?.length === 0) return null
 
   return (
     <div className="absolute left-0 right-0 bg-white border-t border-[var(--border-light)] shadow-lg animate-slide-down">
