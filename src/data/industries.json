@@ -1,0 +1,101 @@
+[
+  {
+    "id": "agribusiness",
+    "slug": "agribusiness",
+    "title": "Agribusiness",
+    "shortDescription": "Supporting agribusinesses with financial, compliance, and operational solutions.",
+    "description": "We support agribusinesses with tailored financial, compliance, and operational solutions to help them thrive in a dynamic market.",
+    "icon": "leaf",
+    "image": "https://images.unsplash.com/photo-1560493676-04071c5f467b?w=800&q=80"
+  },
+  {
+    "id": "consumer-industrial",
+    "slug": "consumer-industrial",
+    "title": "Consumer and industrial products and services",
+    "shortDescription": "Comprehensive support for consumer and industrial product businesses.",
+    "description": "We provide comprehensive support for consumer and industrial product businesses to enhance their operations and growth.",
+    "icon": "shopping-cart",
+    "image": "https://images.unsplash.com/photo-1472851294608-062f824d29cc?w=800&q=80"
+  },
+  {
+    "id": "energy-utilities-mining",
+    "slug": "energy-utilities-mining",
+    "title": "Energy utilities and mining",
+    "shortDescription": "Specialized services for energy, utilities, and mining sectors.",
+    "description": "Our specialized services for energy, utilities, and mining sectors help ensure compliance and operational efficiency.",
+    "icon": "zap",
+    "image": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=800&q=80"
+  },
+  {
+    "id": "financial-services",
+    "slug": "financial-services",
+    "title": "Financial services",
+    "shortDescription": "Serving banks, insurers, asset managers, and fintechs.",
+    "description": "We serve banks, insurers, asset managers, and fintechs with tailored financial and compliance solutions.",
+    "icon": "banknote",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+  },
+  {
+    "id": "government-public",
+    "slug": "government-public",
+    "title": "Government and public sector",
+    "shortDescription": "Supporting governments and public sector institutions.",
+    "description": "We support governments and public sector institutions with compliance and operational excellence solutions.",
+    "icon": "building",
+    "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=800&q=80"
+  },
+  {
+    "id": "real-estate-asset",
+    "slug": "real-estate-asset",
+    "title": "Real estate and Asset Management",
+    "shortDescription": "Comprehensive solutions for real estate and asset management.",
+    "description": "Comprehensive solutions for real estate and asset management businesses to optimize operations and compliance.",
+    "icon": "home",
+    "image": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=80"
+  },
+  {
+    "id": "idas",
+    "slug": "idas",
+    "title": "International development agencies (IDAs)",
+    "shortDescription": "Supporting international development agencies with tailored solutions.",
+    "description": "We support international development agencies with tailored financial, compliance, and operational solutions.",
+    "icon": "globe",
+    "image": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=800&q=80"
+  },
+  {
+    "id": "mining",
+    "slug": "mining",
+    "title": "Mining",
+    "shortDescription": "Specialized services for mining sector operations and compliance.",
+    "description": "Our specialized services for mining sector help with operations, compliance, and risk management.",
+    "icon": "pickaxe",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=800&q=80"
+  },
+  {
+    "id": "oil-gas",
+    "slug": "oil-gas",
+    "title": "Oil and gas",
+    "shortDescription": "Comprehensive support for oil and gas sector.",
+    "description": "Comprehensive support for oil and gas sector operations, compliance, and risk management.",
+    "icon": "droplet",
+    "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80"
+  },
+  {
+    "id": "power-utilities",
+    "slug": "power-utilities",
+    "title": "Power and utilities",
+    "shortDescription": "Solutions for power and utilities sector operations and compliance.",
+    "description": "Solutions for power and utilities sector to ensure operational excellence and regulatory compliance.",
+    "icon": "lightbulb",
+    "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800&q=80"
+  },
+  {
+    "id": "tech-info-comm-entertainment",
+    "slug": "tech-info-comm-entertainment",
+    "title": "Technology, information, communication and entertainment",
+    "shortDescription": "Support for TICE sector businesses.",
+    "description": "We support technology, information, communication, and entertainment sector businesses with tailored solutions.",
+    "icon": "laptop",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+  }
+]

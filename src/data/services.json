@@ -1,0 +1,150 @@
+[
+  {
+    "id": "accounting-and-financial-advisory",
+    "slug": "accounting-and-financial-advisory",
+    "title": "Accounting and Financial Advisory Services",
+    "shortDescription": "Strategic accounting and advisory services to optimize your financial operations.",
+    "description": "We provide strategic accounting and advisory services designed to optimize your financial operations, mitigate risks, and support sustainable business growth. From daily bookkeeping to high-level corporate reporting, our experts deliver the clarity and insights you need to make confident business decisions.",
+    "icon": "calculator",
+    "color": "#0072CE",
+    "subServices": [
+      { "title": "Technical Accounting Support", "slug": "technical-accounting-support" },
+      { "title": "Accounting and Bookkeeping Outsourcing", "slug": "accounting-bookkeeping-outsourcing" },
+      { "title": "Financial Statement Preparation", "slug": "financial-statement-preparation" },
+      { "title": "IFRS Advisory and Implementation", "slug": "ifrs-advisory" },
+      { "title": "Accounting Policies and Procedures Development", "slug": "accounting-policies-procedures" },
+      { "title": "Financial Records Clean-up", "slug": "financial-records-cleanup" },
+      { "title": "Reconciliation Services", "slug": "reconciliation-services" },
+      { "title": "Accounting System Setup", "slug": "accounting-system-setup" },
+      { "title": "Financial Controls Review", "slug": "financial-controls-review" },
+      { "title": "Audit Support", "slug": "audit-support" },
+      { "title": "Financial Planning and Analysis", "slug": "financial-planning-analysis" },
+      { "title": "Business Valuation", "slug": "business-valuation" },
+      { "title": "Investment Appraisal", "slug": "investment-appraisal" },
+      { "title": "Financial Due Diligence", "slug": "financial-due-diligence" },
+      { "title": "M&A Support", "slug": "ma-support" },
+      { "title": "Corporate Restructuring", "slug": "corporate-restructuring" },
+      { "title": "Financial Risk Assessment", "slug": "financial-risk-assessment" },
+      { "title": "CFO and Management Advisory", "slug": "cfo-management-advisory" }
+    ],
+    "featured": true
+  },
+  {
+    "id": "business-performance-management",
+    "slug": "business-performance-management",
+    "title": "Business Performance Management Services",
+    "shortDescription": "Help align strategy with execution to drive operational efficiency.",
+    "description": "Business Performance Management Services help organizations align strategy with execution. They translate high-level goals into actionable metrics, providing continuous monitoring, budgeting, and analytics. These services empower leadership to make data-driven decisions, optimize resources, and improve overall operational efficiency.",
+    "icon": "chart-pie",
+    "color": "#002A5C",
+    "subServices": [
+      { "title": "Strategic Planning", "slug": "strategic-planning" },
+      { "title": "Business Performance Framework", "slug": "business-performance-framework" },
+      { "title": "Corporate Performance Management", "slug": "corporate-performance-management" },
+      { "title": "Board Reporting", "slug": "board-reporting" },
+      { "title": "Business Process Improvement", "slug": "business-process-improvement" },
+      { "title": "Budgeting and Budgetary Control", "slug": "budgeting-control" },
+      { "title": "Training and Capacity Development", "slug": "training-capacity" }
+    ],
+    "featured": true
+  },
+  {
+    "id": "payroll-management",
+    "slug": "payroll-management",
+    "title": "Payroll Management and Outsourcing Services",
+    "shortDescription": "End-to-end payroll solutions to streamline employee compensation.",
+    "description": "Our Payroll Management and Outsourcing Services provide end-to-end solutions that streamline employee compensation, tax withholdings, and statutory compliance. By outsourcing these calculations, businesses eliminate administrative burdens, minimize costly workflow errors, and guarantee accurate, on-time payments.",
+    "icon": "users",
+    "color": "#0072CE",
+    "subServices": [
+      { "title": "Payroll Compliance", "slug": "payroll-compliance" },
+      { "title": "PAYE, Pension and Other Statutory Deductions", "slug": "statutory-deductions" },
+      { "title": "Employee Payroll Reporting", "slug": "employee-payroll-reporting" },
+      { "title": "Payroll Reconciliation", "slug": "payroll-reconciliation" },
+      { "title": "Training and Capacity Development", "slug": "training-capacity" }
+    ],
+    "featured": true
+  },
+  {
+    "id": "tax-advisory",
+    "slug": "tax-advisory",
+    "title": "Tax Advisory and Compliance Support Services",
+    "shortDescription": "End-to-end tax advisory to navigate complex tax obligations.",
+    "description": "Navigating the complexities of local and international tax laws shouldn't distract from your core business goals. Our expert team provides end-to-end tax advisory and compliance services, ensuring your business minimizes liabilities, eliminates penalties, and strictly aligns with the latest regulatory requirements.",
+    "icon": "file-text",
+    "color": "#002A5C",
+    "subServices": [
+      { "title": "Tax Strategy and Planning", "slug": "tax-strategy-planning" },
+      { "title": "Tax Advisory Services", "slug": "tax-advisory" },
+      { "title": "Transfer Pricing", "slug": "transfer-pricing" },
+      { "title": "Regulatory Compliance", "slug": "regulatory-compliance" },
+      { "title": "Tax Reporting and Strategy", "slug": "tax-reporting-strategy" },
+      { "title": "Payroll Tax Services", "slug": "payroll-tax" },
+      { "title": "Tax Audit and Investigation Support", "slug": "tax-audit-investigation" },
+      { "title": "Tax Training and Capacity", "slug": "tax-training" }
+    ],
+    "featured": true
+  },
+  {
+    "id": "it-technical-support",
+    "slug": "it-technical-support",
+    "title": "IT and Technical Support Services",
+    "shortDescription": "Comprehensive IT support to keep your business technology running smoothly.",
+    "description": "In today's fast-paced digital environment, reliable technology is critical to business success. Our IT and Technical Support Services are designed to help organizations maintain secure, efficient, and uninterrupted technology operations. We provide comprehensive support solutions that ensure your IT infrastructure, systems, networks, and business applications always perform optimally.",
+    "icon": "desktop-computer",
+    "color": "#0072CE",
+    "subServices": [
+      { "title": "IT Help Desk Support", "slug": "it-help-desk" },
+      { "title": "Hardware Installation and Maintenance", "slug": "hardware-installation" },
+      { "title": "Software Installation and Support", "slug": "software-installation" },
+      { "title": "Network Setup and Administration", "slug": "network-setup" },
+      { "title": "Cloud Services Support", "slug": "cloud-services" },
+      { "title": "Cybersecurity and Data Protection", "slug": "cybersecurity-data-protection" },
+      { "title": "Email and Collaboration Solutions", "slug": "email-collaboration" },
+      { "title": "System Monitoring and Performance Optimization", "slug": "system-monitoring" },
+      { "title": "IT Infrastructure Management", "slug": "it-infrastructure-management" },
+      { "title": "Backup and Disaster Recovery", "slug": "backup-disaster-recovery" },
+      { "title": "IT Asset Management", "slug": "it-asset-management" },
+      { "title": "Technology Consulting and Advisory", "slug": "technology-consulting" },
+      { "title": "Website and Business Application Support", "slug": "website-app-support" },
+      { "title": "IT Outsourcing Services", "slug": "it-outsourcing" },
+      { "title": "Training and Capacity Development", "slug": "training-capacity" }
+    ],
+    "featured": true
+  },
+  {
+    "id": "training-capacity",
+    "slug": "training-capacity",
+    "title": "Training and Capacity Development Services",
+    "shortDescription": "Professional training to build capacity and upskill your team.",
+    "description": "Our Training and Capacity Development Services provide professional, tailored training programs designed to build capacity, upskill your team, and enhance operational excellence across your organization.",
+    "icon": "academic-cap",
+    "color": "#002A5C",
+    "subServices": [
+      { "title": "Accounting and Finance Training", "slug": "accounting-finance-training" },
+      { "title": "Tax Compliance Training", "slug": "tax-compliance-training" },
+      { "title": "IT and Digital Skills Training", "slug": "it-digital-training" },
+      { "title": "Business Process Training", "slug": "business-process-training" },
+      { "title": "Leadership and Management Training", "slug": "leadership-management-training" }
+    ],
+    "featured": true
+  },
+  {
+    "id": "fixed-asset-management",
+    "slug": "fixed-asset-management",
+    "title": "Fixed Asset Management Services",
+    "shortDescription": "Safeguard your investments and optimize operational efficiency.",
+    "description": "In today's dynamic business environment, maintaining visibility, compliance, and control over your physical assets is critical to your bottom line. Our comprehensive Fixed Asset Management Services are designed to safeguard your investments, optimize operational efficiency, and maximize ROI from procurement through to end-of-life. We provide end-to-end oversight that transforms how you track, value, and maintain your capital assets. By leveraging advanced tracking technologies and tailored management strategies, we help you eliminate ghost assets, minimize downtime, and ensure strict adherence to financial and regulatory standards.",
+    "icon": "clipboard-document-check",
+    "color": "#0072CE",
+    "subServices": [
+      { "title": "Fixed Asset Register Creation and Maintenance", "slug": "asset-register" },
+      { "title": "Physical Verification and Tagging", "slug": "physical-verification" },
+      { "title": "Asset Valuation and Accounting", "slug": "asset-valuation" },
+      { "title": "Asset Lifecycle and Disposal Management", "slug": "asset-lifecycle" },
+      { "title": "Audit and Compliance Support", "slug": "audit-compliance" },
+      { "title": "Training and Capacity Development", "slug": "training-capacity" }
+    ],
+    "featured": true
+  }
+]

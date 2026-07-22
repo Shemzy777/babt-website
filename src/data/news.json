@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "slug": "ndpc-compliance-enforcement-update",
+    "category": "latest-news",
+    "title": "NDPC Compliance Enforcement Update",
+    "excerpt": "The Nigeria Data Protection Commission has issued new compliance enforcement directives affecting businesses operating in Nigeria.",
+    "date": "2025-03-15",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+    "tags": ["Data Protection", "Compliance", "Nigeria"]
+  },
+  {
+    "id": 2,
+    "slug": "babt-sponsors-avca-conference",
+    "category": "latest-news",
+    "title": "BABT sponsors AVCA Conference",
+    "excerpt": "We are proud to announce our sponsorship of the African Venture Capital Association annual conference in Nairobi.",
+    "date": "2025-02-20",
+    "readTime": "3 min read",
+    "image": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=800&q=80",
+    "tags": ["Events", "Private Equity", "Africa"]
+  },
+  {
+    "id": 3,
+    "slug": "africa-c-suite-barometer-outlook-2026",
+    "category": "international-reports",
+    "title": "Africa C-suite barometer: outlook 2026",
+    "excerpt": "Our annual survey of Africa's top executives reveals cautious optimism tempered by macroeconomic headwinds.",
+    "date": "2025-01-10",
+    "readTime": "12 min read",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    "tags": ["Research", "Africa", "Strategy"]
+  },
+  {
+    "id": 4,
+    "slug": "finance-act-2023-key-amendments",
+    "category": "latest-news",
+    "title": "Finance Act 2023: Key Amendments & Legislation",
+    "excerpt": "A comprehensive review of the changes introduced by the Finance Act 2023 and their implications for Nigerian businesses.",
+    "date": "2024-12-05",
+    "readTime": "8 min read",
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+    "tags": ["Tax", "Finance Act", "Legislation"]
+  },
+  {
+    "id": 5,
+    "slug": "nigerian-inflation-slowed-for-17th-month",
+    "category": "latest-news",
+    "title": "Nigerian inflation slowed for 17th month",
+    "excerpt": "Nigeria's inflation rate continues to moderate, providing some relief to businesses and households amid ongoing economic adjustments.",
+    "date": "2024-11-18",
+    "readTime": "4 min read",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    "tags": ["Economy", "Inflation", "Nigeria"]
+  },
+  {
+    "id": 6,
+    "slug": "global-private-equity-outlook-2026",
+    "category": "international-reports",
+    "title": "Global private equity outlook 2026",
+    "excerpt": "BABT's annual private equity report examines the opportunities and challenges facing the sector in the year ahead.",
+    "date": "2024-11-01",
+    "readTime": "15 min read",
+    "image": "https://images.unsplash.com/photo-1579532537598-459ecdaf39cc?w=800&q=80",
+    "tags": ["Private Equity", "Global", "Research"]
+  }
+]

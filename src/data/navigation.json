@@ -1,0 +1,95 @@
+{
+  "mainNav": [
+    {
+      "label": "Industries",
+      "href": "/ng/en/industries",
+      "children": [
+        { "label": "Agribusiness", "href": "/ng/en/industries/agribusiness" },
+        { "label": "Consumer and industrial products and services", "href": "/ng/en/industries/consumer-industrial" },
+        { "label": "Energy utilities and mining", "href": "/ng/en/industries/energy-utilities-mining" },
+        { "label": "Financial services", "href": "/ng/en/industries/financial-services" },
+        { "label": "Government and public sector", "href": "/ng/en/industries/government-public" },
+        { "label": "Real estate and Asset Management", "href": "/ng/en/industries/real-estate-asset" },
+        { "label": "International development agencies (IDAs)", "href": "/ng/en/industries/idas" },
+        { "label": "Mining", "href": "/ng/en/industries/mining" },
+        { "label": "Oil and gas", "href": "/ng/en/industries/oil-gas" },
+        { "label": "Power and utilities", "href": "/ng/en/industries/power-utilities" },
+        { "label": "Technology, information, communication and entertainment", "href": "/ng/en/industries/tech-info-comm-entertainment" }
+      ],
+      "featured": [],
+      "description": "Industry-specific solutions tailored to your sector needs."
+    },
+    {
+      "label": "Services",
+      "href": "/ng/en/services",
+      "children": [
+        { "label": "Accounting and Financial Advisory Services", "href": "/ng/en/services/accounting-and-financial-advisory" },
+        { "label": "Business Performance Management Services", "href": "/ng/en/services/business-performance-management" },
+        { "label": "Payroll Management and Outsourcing Services", "href": "/ng/en/services/payroll-management" },
+        { "label": "Tax Advisory and Compliance Support Services", "href": "/ng/en/services/tax-advisory" },
+        { "label": "IT and Technical Support Services", "href": "/ng/en/services/it-technical-support" },
+        { "label": "Training and Capacity Development Services", "href": "/ng/en/services/training-capacity" },
+        { "label": "Fixed Asset Management Services", "href": "/ng/en/services/fixed-asset-management" }
+      ],
+      "featured": [],
+      "description": "Comprehensive business support services to drive your success."
+    },
+    {
+      "label": "About Us",
+      "href": "/ng/en/who-we-are",
+      "children": [
+        { "label": "Our Company", "href": "/ng/en/who-we-are/our-company" },
+        { "label": "Our Team", "href": "/ng/en/who-we-are/our-team" },
+        { "label": "Vision & Mission", "href": "/ng/en/who-we-are/vision-mission" }
+      ],
+      "featured": [],
+      "description": "Learn more about BABT and our values."
+    },
+    {
+      "label": "Careers",
+      "href": "/ng/en/careers",
+      "children": [],
+      "featured": [],
+      "description": "Explore career opportunities with BABT."
+    }
+  ],
+  "footerNav": {
+    "columns": [
+      {
+        "title": "Services",
+        "href": "/ng/en/services",
+        "links": [
+          { "label": "Accounting and Financial Advisory Services", "href": "/ng/en/services/accounting-and-financial-advisory" },
+          { "label": "Business Performance Management Services", "href": "/ng/en/services/business-performance-management" },
+          { "label": "Payroll Management Services", "href": "/ng/en/services/payroll-management" },
+          { "label": "IT and Technical Support Services", "href": "/ng/en/services/it-technical-support" },
+          { "label": "Tax Advisory Services", "href": "/ng/en/services/tax-advisory" }
+        ]
+      },
+      {
+        "title": "Company",
+        "href": "/ng/en/who-we-are",
+        "links": [
+          { "label": "About BABT", "href": "/ng/en/who-we-are" },
+          { "label": "Our Team", "href": "/ng/en/who-we-are/our-team" },
+          { "label": "Vision & Mission", "href": "/ng/en/who-we-are/vision-mission" },
+          { "label": "Careers", "href": "/ng/en/careers" }
+        ]
+      },
+      {
+        "title": "Contact",
+        "href": "/ng/en/contact-us",
+        "links": [
+          { "label": "Enquiry Form", "href": "/ng/en/contact-us/enquiry-form" },
+          { "label": "Contact Us", "href": "/ng/en/contact-us" }
+        ]
+      }
+    ],
+    "legal": [
+      { "label": "Site map", "href": "/ng/en/sitemap" },
+      { "label": "Legal and privacy", "href": "/ng/en/legals/legal-and-privacy" },
+      { "label": "Disclaimer", "href": "/ng/en/legals/disclaimer" }
+    ]
+  },
+  "social": []
+}

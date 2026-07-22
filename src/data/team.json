@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Team Member 1",
+    "role": "Managing Partner",
+    "department": "Leadership",
+    "email": "info@babt.com",
+    "phone": "+234 818 016 8888",
+    "bio": "Leads BABT Business Support Solutions with over 25 years of experience in business services and leadership.",
+    "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&q=80",
+    "linkedin": "#",
+    "office": "Lagos",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "Team Member 2",
+    "role": "Head, Accounting Services",
+    "department": "Accounting",
+    "email": "info@babt.com",
+    "phone": "+234 818 016 8888",
+    "bio": "Heads our Accounting practice with specialist expertise in corporate accounting and financial reporting.",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80",
+    "linkedin": "#",
+    "office": "Lagos",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "name": "Team Member 3",
+    "role": "Head, IT Services",
+    "department": "IT",
+    "email": "info@babt.com",
+    "phone": "+234 818 016 8888",
+    "bio": "Leads our IT practice, bringing two decades of experience in technology support and management.",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+    "linkedin": "#",
+    "office": "Lagos",
+    "featured": true
+  }
+]
