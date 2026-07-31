@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Team Member 1",
-    "role": "Managing Partner",
+    "role": "Head, Business Performance Management Services",
     "department": "Leadership",
     "email": "info@babt.com",
     "phone": "+234 818 016 8888",
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "name": "Team Member 2",
-    "role": "Head, Accounting Services",
+    "role": "Head, Accounting & Financial Advisory Services",
     "department": "Accounting",
     "email": "info@babt.com",
     "phone": "+234 818 016 8888",
@@ -28,12 +28,38 @@
   {
     "id": 3,
     "name": "Team Member 3",
-    "role": "Head, IT Services",
+    "role": "Head, IT & Technical Support Services",
     "department": "IT",
     "email": "info@babt.com",
     "phone": "+234 818 016 8888",
     "bio": "Leads our IT practice, bringing two decades of experience in technology support and management.",
     "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+    "linkedin": "#",
+    "office": "Lagos",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "name": "Team Member 4",
+    "role": "Head, Internal Audit and Risk Management Services",
+    "department": "Risk Management",
+    "email": "info@babt.com",
+    "phone": "+234 818 016 8888",
+    "bio": "Leads our Internal Audit and Risk Management practice with extensive experience in enterprise risk management and internal controls.",
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
+    "linkedin": "#",
+    "office": "Lagos",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "name": "Team Member 5",
+    "role": "Head, Governance, Risk & Technology Advisory Services (GRTA)",
+    "department": "Advisory",
+    "email": "info@babt.com",
+    "phone": "+234 818 016 8888",
+    "bio": "Leads our GRTA practice, specializing in governance frameworks, risk advisory, and technology-driven business solutions.",
+    "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80",
     "linkedin": "#",
     "office": "Lagos",
     "featured": true

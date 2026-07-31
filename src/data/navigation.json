@@ -9,7 +9,7 @@
         { "label": "Energy utilities and mining", "href": "/ng/en/industries/energy-utilities-mining" },
         { "label": "Financial services", "href": "/ng/en/industries/financial-services" },
         { "label": "Government and public sector", "href": "/ng/en/industries/government-public" },
-        { "label": "Real estate and Asset Management", "href": "/ng/en/industries/real-estate-asset" },
+        { "label": "Real estate and asset management", "href": "/ng/en/industries/real-estate-asset" },
         { "label": "International development agencies (IDAs)", "href": "/ng/en/industries/idas" },
         { "label": "Mining", "href": "/ng/en/industries/mining" },
         { "label": "Oil and gas", "href": "/ng/en/industries/oil-gas" },
@@ -47,7 +47,9 @@
     },
     {
       "label": "Careers",
-      "href": "/ng/en/careers",
+      "href": "/ng/en/who-we-are",
+      "children": [],
+      "featured": [],
       "description": "Explore career opportunities with BABT."
     }
   ],
@@ -70,8 +72,7 @@
         "links": [
           { "label": "About BABT", "href": "/ng/en/who-we-are" },
           { "label": "Our Team", "href": "/ng/en/who-we-are/our-team" },
-          { "label": "Vision & Mission", "href": "/ng/en/who-we-are/vision-mission" },
-          { "label": "Careers", "href": "/ng/en/careers" }
+          { "label": "Vision & Mission", "href": "/ng/en/who-we-are/vision-mission" }
         ]
       },
       {

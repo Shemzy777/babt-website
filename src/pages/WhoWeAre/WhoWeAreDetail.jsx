@@ -76,12 +76,12 @@ export default function WhoWeAreDetail() {
               <div className="w-9 h-0.5 bg-[var(--blue)] mb-6 rounded-full" />
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
                 {teamData.map(member => (
-                  <div key={member.id} className="bg-[var(--surface-alt)] border border-[var(--border-light)] rounded overflow-hidden card-lift">
-                    <div className="aspect-4-3 overflow-hidden"><img src={member.image} alt={member.name} className="w-full h-full object-cover" loading="lazy" /></div>
-                    <div className="p-5">
+                  <div key={member.id} className="bg-[var(--surface-alt)] border border-[var(--border-light)] rounded overflow-hidden card-lift flex flex-col h-full">
+                    <div className="aspect-4-3 overflow-hidden flex-shrink-0"><img src={member.image} alt={member.name} className="w-full h-full object-cover" loading="lazy" /></div>
+                    <div className="p-5 flex flex-col flex-grow">
                       <h3 className="font-bold text-[var(--text)] tracking-tight">{member.name}</h3>
                       <p className="text-sm text-[var(--blue)] font-medium mb-2">{member.role}</p>
-                      <p className="text-sm text-[var(--text-body)] line-clamp-2">{member.bio}</p>
+                      <p className="text-sm text-[var(--text-body)] line-clamp-2 flex-grow">{member.bio}</p>
                       <a href={`mailto:${member.email}`} className="mt-3 block text-xs text-[var(--text-muted)] hover:text-[var(--blue)] transition-colors">{member.email}</a>
                     </div>
                   </div>

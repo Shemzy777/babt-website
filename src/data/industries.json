@@ -15,7 +15,7 @@
     "shortDescription": "Comprehensive support for consumer and industrial product businesses.",
     "description": "We provide comprehensive support for consumer and industrial product businesses to enhance their operations and growth.",
     "icon": "shopping-cart",
-    "image": "https://images.unsplash.com/photo-1472851294608-062f824d29cc?w=800&q=80"
+    "image": "/images/consumer and industrial services.jpg"
   },
   {
     "id": "energy-utilities-mining",
@@ -47,7 +47,7 @@
   {
     "id": "real-estate-asset",
     "slug": "real-estate-asset",
-    "title": "Real estate and Asset Management",
+    "title": "Real estate and asset management",
     "shortDescription": "Comprehensive solutions for real estate and asset management.",
     "description": "Comprehensive solutions for real estate and asset management businesses to optimize operations and compliance.",
     "icon": "home",
@@ -69,7 +69,7 @@
     "shortDescription": "Specialized services for mining sector operations and compliance.",
     "description": "Our specialized services for mining sector help with operations, compliance, and risk management.",
     "icon": "pickaxe",
-    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=800&q=80"
+    "image": "/images/mining.jpg"
   },
   {
     "id": "oil-gas",
@@ -78,7 +78,7 @@
     "shortDescription": "Comprehensive support for oil and gas sector.",
     "description": "Comprehensive support for oil and gas sector operations, compliance, and risk management.",
     "icon": "droplet",
-    "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=80"
+    "image": "/images/oil and gas.jpg"
   },
   {
     "id": "power-utilities",
@@ -87,7 +87,7 @@
     "shortDescription": "Solutions for power and utilities sector operations and compliance.",
     "description": "Solutions for power and utilities sector to ensure operational excellence and regulatory compliance.",
     "icon": "lightbulb",
-    "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800&q=80"
+    "image": "/images/power.jpg"
   },
   {
     "id": "tech-info-comm-entertainment",
