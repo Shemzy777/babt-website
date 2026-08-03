@@ -69,7 +69,7 @@
     "shortDescription": "Specialized services for mining sector operations and compliance.",
     "description": "Our specialized services for mining sector help with operations, compliance, and risk management.",
     "icon": "pickaxe",
-    "image": "/images/mining.jpg"
+    "image": "/images/mining.png"
   },
   {
     "id": "oil-gas",
@@ -78,7 +78,7 @@
     "shortDescription": "Comprehensive support for oil and gas sector.",
     "description": "Comprehensive support for oil and gas sector operations, compliance, and risk management.",
     "icon": "droplet",
-    "image": "/images/oil and gas.jpg"
+    "image": "/images/oil and gas.png"
   },
   {
     "id": "power-utilities",
@@ -87,7 +87,7 @@
     "shortDescription": "Solutions for power and utilities sector operations and compliance.",
     "description": "Solutions for power and utilities sector to ensure operational excellence and regulatory compliance.",
     "icon": "lightbulb",
-    "image": "/images/power.jpg"
+    "image": "/images/power.png"
   },
   {
     "id": "tech-info-comm-entertainment",
