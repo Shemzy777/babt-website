@@ -23,7 +23,7 @@ export default function ServiceDetail() {
             <div><div className="w-9 h-0.5 bg-[var(--blue)] mb-5 rounded-full" /><h2 className="font-bold text-[var(--text)] text-xl mb-4 tracking-tight">Overview</h2><p className="text-[var(--text-body)] leading-relaxed">{service.description}</p></div>
             {service.subServices?.length > 0 && (
               <div>
-                <h2 className="font-bold text-[var(--text)] text-xl mb-5 tracking-tight">Our {service.title} services</h2>
+                <h2 className="font-bold text-[var(--text)] text-xl mb-5 tracking-tight">Our {service.title}</h2>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                   {service.subServices.map(sub => (
                     <div key={sub.slug} className="flex items-center gap-3 p-4 bg-[var(--surface-alt)] border border-[var(--border-light)] rounded">

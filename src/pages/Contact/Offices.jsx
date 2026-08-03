@@ -8,7 +8,7 @@ export default function Offices() {
   return (
     <>
       <Helmet><title>Our Offices | BABT Business Support Solutions</title></Helmet>
-      <PageBanner title="Our offices" subtitle="We have offices across Nigeria to serve you wherever you are." breadcrumbs={[{ label: 'Home', href: '/ng/en' }, { label: 'Contact us', href: '/ng/en/contact-us' }, { label: 'Our offices' }]} />
+      <PageBanner title="Our offices" subtitle="We have our office in Lagos, Nigeria and we're ready to serve you wherever you are." breadcrumbs={[{ label: 'Home', href: '/ng/en' }, { label: 'Contact us', href: '/ng/en/contact-us' }, { label: 'Our offices' }]} />
       <section className="section-padding bg-[var(--surface-alt)]">
         <div className="container">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
