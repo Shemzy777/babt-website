@@ -44,7 +44,7 @@
       { "title": "Board Reporting", "slug": "board-reporting" },
       { "title": "Business Process Improvement", "slug": "business-process-improvement" },
       { "title": "Budgeting and Budgetary Control", "slug": "budgeting-control" },
-      { "title": "Training and Capacity Development", "slug": "training-capacity" }
+      { "title": "Internal Audit and Risk Management Services", "slug": "internal-audit-risk-management" }
     ],
     "featured": true
   },
@@ -61,7 +61,7 @@
       { "title": "PAYE, Pension and Other Statutory Deductions", "slug": "statutory-deductions" },
       { "title": "Employee Payroll Reporting", "slug": "employee-payroll-reporting" },
       { "title": "Payroll Reconciliation", "slug": "payroll-reconciliation" },
-      { "title": "Training and Capacity Development", "slug": "training-capacity" }
+      { "title": "Internal Audit and Risk Management Services", "slug": "internal-audit-risk-management" }
     ],
     "featured": true
   },
@@ -70,19 +70,10 @@
     "slug": "tax-advisory",
     "title": "Tax Advisory and Compliance Support Services",
     "shortDescription": "End-to-end tax advisory to navigate complex tax obligations.",
-    "description": "Navigating the complexities of local and international tax laws shouldn't distract from your core business goals. Our expert team provides end-to-end tax advisory and compliance services, ensuring your business minimizes liabilities, eliminates penalties, and strictly aligns with the latest regulatory requirements.",
+    "description": "We are currently building team for this service line.",
     "icon": "file-text",
     "color": "#002A5C",
-    "subServices": [
-      { "title": "Tax Strategy and Planning", "slug": "tax-strategy-planning" },
-      { "title": "Tax Advisory Services", "slug": "tax-advisory" },
-      { "title": "Transfer Pricing", "slug": "transfer-pricing" },
-      { "title": "Regulatory Compliance", "slug": "regulatory-compliance" },
-      { "title": "Tax Reporting and Strategy", "slug": "tax-reporting-strategy" },
-      { "title": "Payroll Tax Services", "slug": "payroll-tax" },
-      { "title": "Tax Audit and Investigation Support", "slug": "tax-audit-investigation" },
-      { "title": "Tax Training and Capacity", "slug": "tax-training" }
-    ],
+    "subServices": [],
     "featured": true
   },
   {
@@ -108,24 +99,24 @@
       { "title": "Technology Consulting and Advisory", "slug": "technology-consulting" },
       { "title": "Website and Business Application Support", "slug": "website-app-support" },
       { "title": "IT Outsourcing Services", "slug": "it-outsourcing" },
-      { "title": "Training and Capacity Development", "slug": "training-capacity" }
+      { "title": "Internal Audit and Risk Management Services", "slug": "internal-audit-risk-management" }
     ],
     "featured": true
   },
   {
-    "id": "training-capacity",
-    "slug": "training-capacity",
-    "title": "Training and Capacity Development Services",
-    "shortDescription": "Professional training to build capacity and upskill your team.",
-    "description": "Our Training and Capacity Development Services provide professional, tailored training programs designed to build capacity, upskill your team, and enhance operational excellence across your organization.",
-    "icon": "academic-cap",
+    "id": "internal-audit-risk-management",
+    "slug": "internal-audit-risk-management",
+    "title": "Internal Audit and Risk Management Services",
+    "shortDescription": "Strengthen governance, improve internal controls, and manage risks proactively.",
+    "description": "We help organizations strengthen governance, improve internal controls, manage risks proactively, and enhance operational efficiency through independent assurance and advisory services. Our Internal Audit and Risk Management Services are designed to provide management and stakeholders with confidence that risks are identified, assessed, monitored, and effectively managed in line with organizational objectives and regulatory requirements.",
+    "icon": "shield-check",
     "color": "#002A5C",
     "subServices": [
-      { "title": "Accounting and Finance Training", "slug": "accounting-finance-training" },
-      { "title": "Tax Compliance Training", "slug": "tax-compliance-training" },
-      { "title": "IT and Digital Skills Training", "slug": "it-digital-training" },
-      { "title": "Business Process Training", "slug": "business-process-training" },
-      { "title": "Leadership and Management Training", "slug": "leadership-management-training" }
+      { "title": "Internal Audit Services", "slug": "internal-audit-services" },
+      { "title": "Risk Management Services", "slug": "risk-management-services" },
+      { "title": "Governance, Risk and Compliance (GRC) Services", "slug": "grc-services" },
+      { "title": "Fraud Risk and Control Services", "slug": "fraud-risk-control" },
+      { "title": "Business Continuity and Resilience Services", "slug": "business-continuity-resilience" }
     ],
     "featured": true
   },
@@ -143,7 +134,7 @@
       { "title": "Asset Valuation and Accounting", "slug": "asset-valuation" },
       { "title": "Asset Lifecycle and Disposal Management", "slug": "asset-lifecycle" },
       { "title": "Audit and Compliance Support", "slug": "audit-compliance" },
-      { "title": "Training and Capacity Development", "slug": "training-capacity" }
+      { "title": "Internal Audit and Risk Management Services", "slug": "internal-audit-risk-management" }
     ],
     "featured": true
   }
