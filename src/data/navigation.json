@@ -28,7 +28,10 @@
         { "label": "Payroll Management and Outsourcing Services", "href": "/ng/en/services/payroll-management" },
         { "label": "Tax Advisory and Compliance Support Services", "href": "/ng/en/services/tax-advisory" },
         { "label": "IT and Technical Support Services", "href": "/ng/en/services/it-technical-support" },
-        { "label": "Internal Audit and Risk Management Services", "href": "/ng/en/services/internal-audit-risk-management" },
+        { "label": "Internal Audit & Risk Management Services", "href": "/ng/en/services/internal-audit-risk-management" },
+        { "label": "Governance, Risk & Technology Advisory (GRTA)", "href": "/ng/en/services/governance-risk-technology-advisory" },
+        { "label": "Human Capital & HR Outsourcing Services", "href": "/ng/en/services/human-capital-hr-outsourcing" },
+        { "label": "Corporate Finance Advisory Services", "href": "/ng/en/services/corporate-finance-advisory" },
         { "label": "Fixed Asset Management Services", "href": "/ng/en/services/fixed-asset-management" }
       ],
       "featured": [],
@@ -61,9 +64,13 @@
         "links": [
           { "label": "Accounting and Financial Advisory Services", "href": "/ng/en/services/accounting-and-financial-advisory" },
           { "label": "Business Performance Management Services", "href": "/ng/en/services/business-performance-management" },
-          { "label": "Payroll Management Services", "href": "/ng/en/services/payroll-management" },
+          { "label": "Payroll Management & Outsourcing Services", "href": "/ng/en/services/payroll-management" },
+          { "label": "Tax Advisory & Compliance Support Services", "href": "/ng/en/services/tax-advisory" },
           { "label": "IT and Technical Support Services", "href": "/ng/en/services/it-technical-support" },
-          { "label": "Tax Advisory Services", "href": "/ng/en/services/tax-advisory" }
+          { "label": "Internal Audit & Risk Management Services", "href": "/ng/en/services/internal-audit-risk-management" },
+          { "label": "Governance, Risk & Technology Advisory (GRTA)", "href": "/ng/en/services/governance-risk-technology-advisory" },
+          { "label": "Human Capital & HR Outsourcing Services", "href": "/ng/en/services/human-capital-hr-outsourcing" },
+          { "label": "Corporate Finance Advisory Services", "href": "/ng/en/services/corporate-finance-advisory" }
         ]
       },
       {

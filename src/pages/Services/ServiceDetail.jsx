@@ -20,7 +20,15 @@ export default function ServiceDetail() {
       <section className="section-padding bg-white">
         <div className="container">
           <div className="max-w-3xl space-y-8">
-            <div><div className="w-9 h-0.5 bg-[var(--blue)] mb-5 rounded-full" /><h2 className="font-bold text-[var(--text)] text-xl mb-4 tracking-tight">Overview</h2><p className="text-[var(--text-body)] leading-relaxed">{service.description}</p></div>
+            <div>
+              <div className="w-9 h-0.5 bg-[var(--blue)] mb-5 rounded-full" />
+              <h2 className="font-bold text-[var(--text)] text-xl mb-4 tracking-tight">Overview</h2>
+              <div className="space-y-4">
+                {service.description.split('\n\n').map((para, idx) => (
+                  <p key={idx} className="text-[var(--text-body)] leading-relaxed">{para}</p>
+                ))}
+              </div>
+            </div>
             {service.subServices?.length > 0 && (
               <div>
                 <h2 className="font-bold text-[var(--text)] text-xl mb-5 tracking-tight">Our {service.title}</h2>

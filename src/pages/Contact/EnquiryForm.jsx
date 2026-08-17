@@ -4,7 +4,7 @@ import { useForm } from 'react-hook-form'
 import { CheckCircleIcon } from '@heroicons/react/24/outline'
 import PageBanner from '../../components/sections/PageBanner'
 
-const services = ['Accounting and Financial Advisory', 'Business Performance Management', 'Payroll Management', 'IT and Technical Support', 'Tax Advisory', 'Fixed Asset Management', 'Internal Audit and Risk Management', 'Other']
+const services = ['Accounting and Financial Advisory', 'Business Performance Management', 'Payroll Management', 'Tax Advisory', 'IT and Technical Support', 'Internal Audit and Risk Management', 'Governance, Risk and Technology Advisory (GRTA)', 'Human Capital and HR Outsourcing', 'Corporate Finance Advisory', 'Fixed Asset Management', 'Other']
 
 const inputCls = err => `w-full px-4 py-3 text-sm border rounded focus:outline-none focus:border-[var(--blue)] bg-white transition-colors ${err ? 'border-red-400' : 'border-[var(--border)]'}`
 

@@ -44,7 +44,7 @@
       { "title": "Board Reporting", "slug": "board-reporting" },
       { "title": "Business Process Improvement", "slug": "business-process-improvement" },
       { "title": "Budgeting and Budgetary Control", "slug": "budgeting-control" },
-      { "title": "Internal Audit and Risk Management Services", "slug": "internal-audit-risk-management" }
+      { "title": "Training and Capacity Development", "slug": "training-capacity" }
     ],
     "featured": true
   },
@@ -61,7 +61,7 @@
       { "title": "PAYE, Pension and Other Statutory Deductions", "slug": "statutory-deductions" },
       { "title": "Employee Payroll Reporting", "slug": "employee-payroll-reporting" },
       { "title": "Payroll Reconciliation", "slug": "payroll-reconciliation" },
-      { "title": "Internal Audit and Risk Management Services", "slug": "internal-audit-risk-management" }
+      { "title": "Training and Capacity Development", "slug": "training-capacity" }
     ],
     "featured": true
   },
@@ -70,10 +70,19 @@
     "slug": "tax-advisory",
     "title": "Tax Advisory and Compliance Support Services",
     "shortDescription": "End-to-end tax advisory to navigate complex tax obligations.",
-    "description": "We are currently building team for this service line.",
+    "description": "Navigating the complexities of local and international tax laws shouldn't distract from your core business goals. Our expert team provides end-to-end tax advisory and compliance services, ensuring your business minimizes liabilities, eliminates penalties, and strictly aligns with the latest regulatory requirements.",
     "icon": "file-text",
     "color": "#002A5C",
-    "subServices": [],
+    "subServices": [
+      { "title": "Tax Strategy and Planning", "slug": "tax-strategy-planning" },
+      { "title": "Tax Advisory Services", "slug": "tax-advisory" },
+      { "title": "Transfer Pricing", "slug": "transfer-pricing" },
+      { "title": "Regulatory Compliance", "slug": "regulatory-compliance" },
+      { "title": "Tax Reporting and Strategy", "slug": "tax-reporting-strategy" },
+      { "title": "Payroll Tax Services", "slug": "payroll-tax" },
+      { "title": "Tax Audit and Investigation Support", "slug": "tax-audit-investigation" },
+      { "title": "Tax Training and Capacity", "slug": "tax-training" }
+    ],
     "featured": true
   },
   {
@@ -99,24 +108,122 @@
       { "title": "Technology Consulting and Advisory", "slug": "technology-consulting" },
       { "title": "Website and Business Application Support", "slug": "website-app-support" },
       { "title": "IT Outsourcing Services", "slug": "it-outsourcing" },
-      { "title": "Internal Audit and Risk Management Services", "slug": "internal-audit-risk-management" }
+      { "title": "Training and Capacity Development", "slug": "training-capacity" }
     ],
     "featured": true
   },
   {
     "id": "internal-audit-risk-management",
     "slug": "internal-audit-risk-management",
-    "title": "Internal Audit and Risk Management Services",
-    "shortDescription": "Strengthen governance, improve internal controls, and manage risks proactively.",
-    "description": "We help organizations strengthen governance, improve internal controls, manage risks proactively, and enhance operational efficiency through independent assurance and advisory services. Our Internal Audit and Risk Management Services are designed to provide management and stakeholders with confidence that risks are identified, assessed, monitored, and effectively managed in line with organizational objectives and regulatory requirements.",
+    "title": "Internal Audit & Risk Management Services",
+    "shortDescription": "Establish effective governance, strengthen internal controls, and implement practical risk management frameworks.",
+    "description": "In an increasingly complex and regulated business environment, organizations must proactively identify risks, strengthen internal controls, and ensure effective governance to achieve their strategic objectives. A robust internal audit and risk management function not only safeguards organizational assets but also enhances operational efficiency, regulatory compliance, and stakeholder confidence.\n\nOur Internal Audit & Risk Management services help organizations establish effective governance, strengthen internal control systems, and implement practical risk management frameworks that support sustainable business performance. We adopt a risk-based approach to evaluating business processes, identifying control gaps, assessing emerging risks, and providing actionable recommendations that improve accountability, resilience, and decision-making.\n\nWorking closely with boards, audit committees, executive management, and operational teams, we deliver independent assurance and trusted advisory services tailored to each organization's needs. Whether you require outsourced or co-sourced internal audit, enterprise risk management, fraud risk assessments, internal control reviews, regulatory compliance support, or governance advisory, our experienced professionals provide practical, value-driven solutions that protect organizational value, enhance operational effectiveness, and support long-term growth.",
+    "icon": "shield-exclamation",
+    "color": "#0072CE",
+    "subServices": [
+      { "title": "Risk-Based Internal Audit", "slug": "risk-based-internal-audit" },
+      { "title": "Enterprise Risk Management (ERM)", "slug": "enterprise-risk-management" },
+      { "title": "Internal Control Reviews & Advisory", "slug": "internal-control-reviews" },
+      { "title": "Corporate Governance Advisory", "slug": "corporate-governance-advisory" },
+      { "title": "Compliance & Regulatory Reviews", "slug": "compliance-regulatory-reviews" },
+      { "title": "Fraud Risk Management & Investigations", "slug": "fraud-risk-management" },
+      { "title": "Business Continuity & Disaster Recovery Planning", "slug": "business-continuity-disaster-recovery" },
+      { "title": "Internal Control Framework Design", "slug": "internal-control-framework" },
+      { "title": "Policy & Procedure Development", "slug": "policy-procedure-development" },
+      { "title": "Risk Assessments & Risk Register Development", "slug": "risk-assessments-register" },
+      { "title": "Audit Committee Advisory", "slug": "audit-committee-advisory" },
+      { "title": "Internal Audit Outsourcing & Co-sourcing", "slug": "internal-audit-outsourcing" },
+      { "title": "Process Improvement & Operational Reviews", "slug": "process-improvement-reviews" },
+      { "title": "Internal Audit, Risk & Compliance Training", "slug": "internal-audit-risk-training" }
+    ],
+    "featured": true
+  },
+  {
+    "id": "governance-risk-technology-advisory",
+    "slug": "governance-risk-technology-advisory",
+    "title": "Governance, Risk & Technology Advisory (GRTA)",
+    "shortDescription": "Strengthen governance frameworks, manage enterprise-wide risks, enhance internal controls, and leverage technology to improve business performance.",
+    "description": "In today's rapidly evolving business environment, organizations face increasing regulatory requirements, emerging technology risks, cybersecurity threats, and heightened stakeholder expectations. Effective governance, robust risk management, and resilient technology controls are no longer optional- they are fundamental to sustainable growth and long-term success.\n\nOur Governance, Risk & Technology Advisory (GRTA) services help organizations strengthen governance frameworks, manage enterprise-wide risks, enhance internal controls, and leverage technology to improve business performance. We work with boards, executive management, and operational teams to identify risks, ensure regulatory compliance, protect critical information assets, and build resilient organizations capable of adapting to change.\n\nBy combining industry expertise with practical, risk-based solutions, we enable our clients to improve decision-making, safeguard organizational value, enhance operational efficiency, and foster stakeholder confidence. Whether your organization is seeking to strengthen corporate governance, optimize internal controls, implement enterprise risk management, improve cybersecurity governance, or navigate complex regulatory requirements, our team delivers tailored advisory solutions that support your strategic objectives and sustainable grow.",
     "icon": "shield-check",
     "color": "#002A5C",
     "subServices": [
-      { "title": "Internal Audit Services", "slug": "internal-audit-services" },
-      { "title": "Risk Management Services", "slug": "risk-management-services" },
-      { "title": "Governance, Risk and Compliance (GRC) Services", "slug": "grc-services" },
-      { "title": "Fraud Risk and Control Services", "slug": "fraud-risk-control" },
-      { "title": "Business Continuity and Resilience Services", "slug": "business-continuity-resilience" }
+      { "title": "IT Audit & Assurance", "slug": "it-audit-assurance" },
+      { "title": "IT Governance", "slug": "it-governance" },
+      { "title": "Technology Risk Management", "slug": "technology-risk-management" },
+      { "title": "Internal Controls & Assurance", "slug": "internal-controls-assurance" },
+      { "title": "Information Security & Cybersecurity Governance", "slug": "information-security-governance" },
+      { "title": "Governance, Risk & Compliance (GRC)", "slug": "governance-risk-compliance" },
+      { "title": "Data Governance & Privacy", "slug": "data-governance-privacy" },
+      { "title": "Business Continuity & IT Resilience", "slug": "business-continuity-it-resilience" },
+      { "title": "Digital Transformation Advisory", "slug": "digital-transformation-advisory" },
+      { "title": "Training & Capacity Building", "slug": "training-capacity-building" }
+    ],
+    "featured": true
+  },
+  {
+    "id": "human-capital-hr-outsourcing",
+    "slug": "human-capital-hr-outsourcing",
+    "title": "Human Capital & HR Outsourcing Services",
+    "shortDescription": "Build high-performing workforces, strengthen HR capabilities, and streamline people management processes.",
+    "description": "People are the driving force behind every successful organization. Attracting, developing, and retaining the right talent while ensuring efficient human resource processes is essential for achieving sustainable growth and maintaining a competitive advantage.\n\nOur Human Capital & HR Outsourcing services help organizations build high-performing workforces, strengthen HR capabilities, and streamline people management processes. We partner with businesses to deliver practical, scalable, and compliant HR solutions that align workforce strategies with organizational goals. From talent acquisition and performance management to HR compliance, payroll administration, and employee development, we provide end-to-end support tailored to the unique needs of each client.\n\nBy combining HR expertise, industry best practices, and technology-enabled solutions, we enable organizations to improve employee engagement, enhance productivity, reduce administrative burdens, and ensure compliance with evolving employment regulations. Whether you are a growing business seeking to establish a robust HR function or an established organization looking to optimize your people strategy, our team delivers trusted advisory and outsourcing services that empower your workforce and support long-term business success.",
+    "icon": "user-group",
+    "color": "#0072CE",
+    "subServices": [
+      { "title": "Human Capital Strategy", "slug": "human-capital-strategy" },
+      { "title": "Recruitment & Executive Search", "slug": "recruitment-executive-search" },
+      { "title": "HR Outsourcing", "slug": "hr-outsourcing" },
+      { "title": "Learning & Development", "slug": "learning-development" },
+      { "title": "Performance & Talent Management", "slug": "performance-talent-management" },
+      { "title": "Compensation & Rewards", "slug": "compensation-rewards" },
+      { "title": "HR Compliance & Labour Advisory", "slug": "hr-compliance-labour-advisory" },
+      { "title": "HR Technology & Digital Transformation", "slug": "hr-technology-digital-transformation" },
+      { "title": "Organizational Design & Change Management", "slug": "organizational-design-change" },
+      { "title": "Employee Relations & Industrial Relations", "slug": "employee-relations-industrial" },
+      { "title": "HR Audit & Workforce Analytics", "slug": "hr-audit-workforce-analytics" }
+    ],
+    "featured": true
+  },
+  {
+    "id": "corporate-finance-advisory",
+    "slug": "corporate-finance-advisory",
+    "title": "Corporate Finance Advisory Services",
+    "shortDescription": "Trusted financial advisory services to enhance enterprise value and support strategic decision-making.",
+    "description": "Sound financial strategy is the foundation of sustainable business growth and long-term value creation. As organizations navigate evolving markets, investment opportunities, and financing challenges, they require trusted advisors who can provide strategic financial insight and practical solutions that support informed decision-making.\n\nOur Corporate Finance Advisory services help businesses, investors, and stakeholders make confident financial decisions that enhance enterprise value and support strategic objectives. We provide expert advice across capital raising, mergers and acquisitions, business valuation, financial modelling, transaction advisory, restructuring, and strategic financial planning. Our team combines deep financial expertise with commercial insight to deliver solutions that are tailored to each client's unique circumstances and growth ambitions.\n\nWhether you are seeking to raise capital, acquire or divest a business, evaluate investment opportunities, optimize your capital structure, or improve financial performance, we work alongside you to identify opportunities, manage risks, and execute transactions with confidence. Our commitment is to deliver objective, value-driven advice that strengthens financial resilience, drives sustainable growth, and positions your organization for long-term success.",
+    "icon": "banknotes",
+    "color": "#002A5C",
+    "subServices": [
+      { "title": "Capital Raising Advisory", "slug": "capital-raising-advisory" },
+      { "title": "Mergers & Acquisitions (M&A)", "slug": "mergers-acquisitions" },
+      { "title": "Business Valuation", "slug": "business-valuation" },
+      { "title": "Financial Modelling", "slug": "financial-modelling" },
+      { "title": "Project Finance Advisory", "slug": "project-finance-advisory" },
+      { "title": "Corporate Restructuring", "slug": "corporate-restructuring" },
+      { "title": "Financial Due Diligence", "slug": "financial-due-diligence" },
+      { "title": "Transaction Advisory", "slug": "transaction-advisory" },
+      { "title": "Strategic Financial Planning", "slug": "strategic-financial-planning" },
+      { "title": "Working Capital Management", "slug": "working-capital-management" },
+      { "title": "Investor & Lender Advisory", "slug": "investor-lender-advisory" },
+      { "title": "Feasibility Studies and Business Case Development", "slug": "feasibility-studies-business-case" },
+      { "title": "IPO and Capital Market Advisory", "slug": "ipo-capital-market-advisory" },
+      { "title": "Debt Advisory and Refinancing", "slug": "debt-advisory-refinancing" },
+      { "title": "Corporate Governance Advisory", "slug": "corporate-governance-advisory" }
+    ],
+    "featured": true
+  },
+  {
+    "id": "training-capacity",
+    "slug": "training-capacity",
+    "title": "Training and Capacity Development Services",
+    "shortDescription": "Professional training to build capacity and upskill your team.",
+    "description": "Our Training and Capacity Development Services provide professional, tailored training programs designed to build capacity, upskill your team, and enhance operational excellence across your organization.",
+    "icon": "academic-cap",
+    "color": "#002A5C",
+    "subServices": [
+      { "title": "Accounting and Finance Training", "slug": "accounting-finance-training" },
+      { "title": "Tax Compliance Training", "slug": "tax-compliance-training" },
+      { "title": "IT and Digital Skills Training", "slug": "it-digital-training" },
+      { "title": "Business Process Training", "slug": "business-process-training" },
+      { "title": "Leadership and Management Training", "slug": "leadership-management-training" }
     ],
     "featured": true
   },
@@ -134,7 +241,7 @@
       { "title": "Asset Valuation and Accounting", "slug": "asset-valuation" },
       { "title": "Asset Lifecycle and Disposal Management", "slug": "asset-lifecycle" },
       { "title": "Audit and Compliance Support", "slug": "audit-compliance" },
-      { "title": "Internal Audit and Risk Management Services", "slug": "internal-audit-risk-management" }
+      { "title": "Training and Capacity Development", "slug": "training-capacity" }
     ],
     "featured": true
   }
