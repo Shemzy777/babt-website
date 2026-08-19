@@ -6,6 +6,7 @@ import ContactSection from '../../components/sections/ContactSection'
 import { NewsCard } from '../../components/ui/Card'
 import industriesData from '../../data/industries.json'
 import newsData from '../../data/news.json'
+import servicesData from '../../data/services.json'
 
 export default function IndustryDetail() {
   const { slug } = useParams()
@@ -27,7 +28,7 @@ export default function IndustryDetail() {
             <div className="space-y-5">
               <div className="bg-[var(--surface-alt)] border border-[var(--border-light)] rounded p-6">
                 <h3 className="font-semibold text-[var(--text)] text-xs uppercase tracking-wider mb-4">Our services</h3>
-                <ul className="space-y-2">{['Audit & Assurance', 'Tax', 'Financial Advisory', 'Consulting', 'Outsourcing'].map(s => (<li key={s}><Link to="/ng/en/services" className="flex items-center gap-2 text-sm text-[var(--text-body)] hover:text-[var(--blue)] group transition-colors py-1"><ArrowRightIcon className="w-3.5 h-3.5 text-[var(--blue)] transition-transform group-hover:translate-x-1 flex-shrink-0" />{s}</Link></li>))}</ul>
+                <ul className="space-y-2">{servicesData.map(s => (<li key={s.id}><Link to={`/ng/en/services/${s.slug}`} className="flex items-center gap-2 text-sm text-[var(--text-body)] hover:text-[var(--blue)] group transition-colors py-1"><ArrowRightIcon className="w-3.5 h-3.5 text-[var(--blue)] transition-transform group-hover:translate-x-1 flex-shrink-0" />{s.title}</Link></li>))}</ul>
               </div>
               <div className="bg-[var(--navy)] rounded p-6 text-white">
                 <h3 className="font-semibold text-white text-sm mb-2">Talk to our experts</h3>

@@ -211,23 +211,6 @@
     "featured": true
   },
   {
-    "id": "training-capacity",
-    "slug": "training-capacity",
-    "title": "Training and Capacity Development Services",
-    "shortDescription": "Professional training to build capacity and upskill your team.",
-    "description": "Our Training and Capacity Development Services provide professional, tailored training programs designed to build capacity, upskill your team, and enhance operational excellence across your organization.",
-    "icon": "academic-cap",
-    "color": "#002A5C",
-    "subServices": [
-      { "title": "Accounting and Finance Training", "slug": "accounting-finance-training" },
-      { "title": "Tax Compliance Training", "slug": "tax-compliance-training" },
-      { "title": "IT and Digital Skills Training", "slug": "it-digital-training" },
-      { "title": "Business Process Training", "slug": "business-process-training" },
-      { "title": "Leadership and Management Training", "slug": "leadership-management-training" }
-    ],
-    "featured": true
-  },
-  {
     "id": "fixed-asset-management",
     "slug": "fixed-asset-management",
     "title": "Fixed Asset Management Services",
